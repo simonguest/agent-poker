@@ -6,7 +6,7 @@ and provides methods for shuffling, drawing cards, and returning cards to the de
 """
 
 import random
-from typing import List, Tuple
+from typing import List
 
 
 class Card:
